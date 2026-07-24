@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Top-tier weather intelligence app with real-time Open-Meteo forecasts, 7-day metrics, interactive hourly charts, smart activity insights, and global location search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
